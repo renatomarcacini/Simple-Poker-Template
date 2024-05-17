@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['id_0',['ID',['../class_simple_poker_1_1_audio_1_1_sound_manager.html#afa37b22aba742faaf555042ce9b944fc',1,'SimplePoker::Audio::SoundManager']]],
+  ['increaseforcedbet_1',['IncreaseForcedBet',['../class_simple_poker_1_1_logic_1_1_game_manager.html#aeca096f2542ede526513c7e9fedae497',1,'SimplePoker::Logic::GameManager']]],
+  ['initialize_2',['Initialize',['../class_initializer.html#ae23a5ab4ea60f40a789628c754f628c7',1,'Initializer']]],
+  ['initializeads_3',['InitializeAds',['../class_simple_poker_1_1_unity_ads_1_1_ads_initializer.html#a5c5be926057ea2098fda5e0e5f5c3c10',1,'SimplePoker::UnityAds::AdsInitializer']]],
+  ['initializer_4',['Initializer',['../class_initializer.html',1,'']]],
+  ['initializer_2ecs_5',['Initializer.cs',['../_initializer_8cs.html',1,'']]],
+  ['instance_6',['Instance',['../class_static_instance.html#ab749727f0413ad04f58fbc7536ac909c',1,'StaticInstance.Instance'],['../class_static___auto_instance.html#aa71d09ae88b4b55084136d7656057c1a',1,'Static_AutoInstance.Instance'],['../class_persistent_static___auto_instance.html#a5273a3748e5382ebca36e955c6f26141',1,'PersistentStatic_AutoInstance.Instance']]],
+  ['interstitialad_7',['InterstitialAd',['../class_simple_poker_1_1_unity_ads_1_1_interstitial_ad.html',1,'SimplePoker.UnityAds.InterstitialAd'],['../class_simple_poker_1_1_unity_ads_1_1_ads_initializer.html#a029b3190f11772a5c9dde18862a3c1da',1,'SimplePoker.UnityAds.AdsInitializer.InterstitialAd']]],
+  ['interstitialad_2ecs_8',['InterstitialAd.cs',['../_interstitial_ad_8cs.html',1,'']]],
+  ['isallin_9',['IsAllIn',['../class_simple_poker_1_1_logic_1_1_player_base.html#ad2d2c47baba28a6387f675e4657e859f',1,'SimplePoker::Logic::PlayerBase']]],
+  ['iscall_10',['IsCall',['../class_simple_poker_1_1_logic_1_1_player_base.html#ab8f8b33cbb0afd618a95d5443029bae0',1,'SimplePoker::Logic::PlayerBase']]],
+  ['ischeck_11',['IsCheck',['../class_simple_poker_1_1_logic_1_1_player_base.html#a20419bf8570e2a4ea5358b192595581e',1,'SimplePoker::Logic::PlayerBase']]],
+  ['isexpanded_12',['isExpanded',['../class_simple_poker_1_1_editor_1_1_poker_data_editor_1_1_serialized_object_container.html#a8feb5b1847fa1b4206cf73a7ee285b79',1,'SimplePoker::Editor::PokerDataEditor::SerializedObjectContainer']]],
+  ['isfold_13',['IsFold',['../class_simple_poker_1_1_logic_1_1_player_base.html#a8447852cb86502b83367734dbae4d521',1,'SimplePoker::Logic::PlayerBase']]],
+  ['isinitialized_14',['IsInitialized',['../class_simple_poker_1_1_unity_ads_1_1_ads_initializer.html#af2c1be7d08f473c9417fc53d2dc8ee32',1,'SimplePoker::UnityAds::AdsInitializer']]],
+  ['isjustonenotallin_15',['IsJustOneNotAllIn',['../class_simple_poker_1_1_logic_1_1_game_manager.html#a322625c4884afcc307e1d5f52b479896',1,'SimplePoker::Logic::GameManager']]],
+  ['isloaded_16',['IsLoaded',['../class_simple_poker_1_1_unity_ads_1_1_rewarded_ad.html#a09ca96c9136ac707b69624cf0fd32888',1,'SimplePoker::UnityAds::RewardedAd']]],
+  ['ismyturn_17',['IsMyTurn',['../class_simple_poker_1_1_logic_1_1_player_base.html#ace2d974094e1e0274b8c9a77c8bec6a9',1,'SimplePoker::Logic::PlayerBase']]],
+  ['isplayer_18',['IsPlayer',['../class_simple_poker_1_1_logic_1_1_player_base.html#a2695f62cda8feb7f89bc630528d253bd',1,'SimplePoker::Logic::PlayerBase']]],
+  ['israise_19',['IsRaise',['../class_simple_poker_1_1_logic_1_1_player_base.html#abb3a7330952ed40ffa804b81e3685b8a',1,'SimplePoker::Logic::PlayerBase']]],
+  ['isvalidcardoperation_20',['IsValidCardOperation',['../class_deck.html#aeb66f8131038ac3c3dada353841599fc',1,'Deck']]]
+];
