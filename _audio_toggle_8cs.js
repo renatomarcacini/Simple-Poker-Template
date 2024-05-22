@@ -1,4 +1,4 @@
 var _audio_toggle_8cs =
 [
-    [ "AudioToggle", "class_audio_toggle.html", "class_audio_toggle" ]
+    [ "SimplePoker.Audio.AudioToggle", "class_simple_poker_1_1_audio_1_1_audio_toggle.html", "class_simple_poker_1_1_audio_1_1_audio_toggle" ]
 ];

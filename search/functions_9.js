@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['load_3c_20t_20_3e_0',['Load&lt; T &gt;',['../class_simple_poker_1_1_save_load_1_1_binary_save.html#adfdfe67082b4539c7477635b1437a2b0',1,'SimplePoker::SaveLoad::BinarySave']]],
+  ['load_3c_20t_20_3e_0',['Load&lt; T &gt;',['../class_simple_poker_1_1_save_load_1_1_json_save.html#a83631fdef81dea4d629ff30334f97700',1,'SimplePoker::SaveLoad::JsonSave']]],
   ['loadad_1',['LoadAd',['../class_simple_poker_1_1_unity_ads_1_1_interstitial_ad.html#ab52d3297184bc7fccf409a6097a98442',1,'SimplePoker.UnityAds.InterstitialAd.LoadAd()'],['../class_simple_poker_1_1_unity_ads_1_1_rewarded_ad.html#a3910efe8bf8af56e1b406422fec322d2',1,'SimplePoker.UnityAds.RewardedAd.LoadAd()']]],
   ['loadgame_2',['LoadGame',['../class_simple_poker_1_1_save_load_1_1_database_manager.html#a4961c75102487a72600821eb7bc5f8b8',1,'SimplePoker::SaveLoad::DatabaseManager']]],
   ['loadplayerchips_3',['LoadPlayerChips',['../class_simple_poker_1_1_save_load_1_1_database_manager.html#a68ea03db2a7cc51c267be7b285a5b588',1,'SimplePoker::SaveLoad::DatabaseManager']]],

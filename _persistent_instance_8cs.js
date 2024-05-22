@@ -1,4 +1,4 @@
 var _persistent_instance_8cs =
 [
-    [ "PersistentInstance", "class_persistent_instance.html", null ]
+    [ "SimplePoker.PersistentInstance", "class_simple_poker_1_1_persistent_instance.html", null ]
 ];

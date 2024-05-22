@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['optionui_0',['OptionUI',['../class_u_i_manager.html#a21b43da498b9040ef7e74bf671a00ef3',1,'UIManager']]]
+  ['optionui_0',['OptionUI',['../class_simple_poker_1_1_u_i_1_1_u_i_manager.html#a2a2f43e193fc88163469d66497deeecf',1,'SimplePoker::UI::UIManager']]]
 ];

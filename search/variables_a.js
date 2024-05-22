@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['levelnumber_0',['LevelNumber',['../class_level_save.html#a9cb6b84f0ff520a1796407fdc5b99733',1,'LevelSave']]],
-  ['levels_1',['Levels',['../class_game_save_object.html#a29ef19af6c2f2e4c22cfa0fe04364046',1,'GameSaveObject']]]
+  ['levelnumber_0',['LevelNumber',['../class_simple_poker_1_1_save_load_1_1_level_save.html#a47b00f14bf213163b43fa2374dcbdcb9',1,'SimplePoker::SaveLoad::LevelSave']]],
+  ['levels_1',['Levels',['../class_simple_poker_1_1_save_load_1_1_game_save_object.html#a3006ee27ef957704cf1df812f7eebb10',1,'SimplePoker::SaveLoad::GameSaveObject']]]
 ];

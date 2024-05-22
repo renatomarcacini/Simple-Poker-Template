@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hand_0',['HAND',['../_poker_hand_8cs.html#a899b1f99e0792573e6e4b51d84f78653',1,'PokerHand.cs']]]
+  ['hand_0',['HAND',['../namespace_simple_poker_1_1_logic.html#a5946b1925043418d4e65649bf9f54a79',1,'SimplePoker::Logic']]]
 ];

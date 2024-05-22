@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['uibuttonclick_0',['UIButtonClick',['../class_u_i_button_click.html',1,'']]],
-  ['uimanager_1',['UIManager',['../class_u_i_manager.html',1,'']]],
-  ['uiplayer_2',['UIPlayer',['../class_simple_poker_1_1_visual_1_1_u_i_player.html',1,'SimplePoker::Visual']]],
-  ['uipokerendmatch_3',['UIPokerEndMatch',['../class_simple_poker_1_1_visual_1_1_u_i_poker_end_match.html',1,'SimplePoker::Visual']]],
-  ['uipokerpot_4',['UIPokerPot',['../class_simple_poker_1_1_visual_1_1_u_i_poker_pot.html',1,'SimplePoker::Visual']]],
-  ['uistatemanager_5',['UIStateManager',['../class_u_i_state_manager.html',1,'']]]
+  ['table_0',['Table',['../class_simple_poker_1_1_visual_1_1_table.html',1,'SimplePoker::Visual']]],
+  ['tiebreaker_1',['Tiebreaker',['../class_simple_poker_1_1_logic_1_1_tiebreaker.html',1,'SimplePoker::Logic']]],
+  ['transitionscenemanager_2',['TransitionSceneManager',['../class_simple_poker_1_1_scene_controller_1_1_transition_scene_manager.html',1,'SimplePoker::SceneController']]],
+  ['turnchoose_3',['TurnChoose',['../class_simple_poker_1_1_scriptable_objects_1_1_turn_choose.html',1,'SimplePoker::ScriptableObjects']]]
 ];

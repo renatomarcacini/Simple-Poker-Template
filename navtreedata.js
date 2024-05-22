@@ -26,7 +26,11 @@ var NAVTREE =
 [
   [ "Simple Poker Template", "index.html", [
     [ "Packages", "namespaces.html", [
-      [ "Package List", "namespaces.html", "namespaces_dup" ]
+      [ "Package List", "namespaces.html", "namespaces_dup" ],
+      [ "Package Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Enumerations", "namespacemembers_enum.html", null ]
+      ] ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
@@ -42,11 +46,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Enumerations", "globals_enum.html", null ]
-      ] ]
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
@@ -54,9 +54,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_ads_initializer_8cs.html",
-"class_poker_game_asset_data.html#ac53d632661fd2d9e9a0b0f523640156d",
-"class_simple_poker_1_1_logic_1_1_player_base.html#ab8f8b33cbb0afd618a95d5443029bae0",
-"class_simple_poker_1_1_scene_controller_1_1_transition_scene_manager.html#abe775e39dd81cdd2cdb4cfe59e3da6c6"
+"class_simple_poker_1_1_logic_1_1_card.html#ad4480d5a5b60bd082b69b445370230d0a60a63c9a983ad6966ffe95a8a6f003d8",
+"class_simple_poker_1_1_logic_1_1_poker_pot_bet.html#a10810e3168a72eb7630e3004a0725375",
+"class_simple_poker_1_1_scriptable_objects_1_1_deck_data.html",
+"class_simple_poker_1_1_unity_ads_1_1_ads_initializer.html#ad155ab38506ae7b82127eaddc362f2e2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

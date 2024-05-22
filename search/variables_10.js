@@ -1,16 +1,16 @@
 var searchData=
 [
-  ['ticket_0',['Ticket',['../class_level_data.html#a3ca5aa7c07ecaa280813c9bcc84596f0',1,'LevelData.Ticket'],['../class_level_save.html#a1ea7f9e9122a391e1acf98904faf3673',1,'LevelSave.Ticket']]],
-  ['time_5fcallnextplayer_1',['Time_CallNextPlayer',['../class_poker_game_asset_data.html#a683910a2cdecb01f70d2aff08a6c91d8',1,'PokerGameAssetData']]],
-  ['time_5fcallnextplayeronallin_2',['Time_CallNextPlayerOnAllIn',['../class_poker_game_asset_data.html#ad2e4285c0b7a382a969d9d6df5b51328',1,'PokerGameAssetData']]],
-  ['time_5fcpuwaitchooseaction_3',['Time_CpuWaitChooseAction',['../class_poker_game_asset_data.html#a3657da50c452705a12d099f693cd2ac3',1,'PokerGameAssetData']]],
-  ['time_5fdelay_4',['Time_Delay',['../class_poker_game_asset_data.html#a685cf43e2184fbe3ccc439ea0fa6469e',1,'PokerGameAssetData']]],
-  ['time_5fdistributecard_5',['Time_DistributeCard',['../class_poker_game_asset_data.html#ae50b87e0b455460accc8aab2930f7374',1,'PokerGameAssetData']]],
-  ['time_5fenableplayerontable_6',['Time_EnablePlayerOnTable',['../class_poker_game_asset_data.html#a3fd23494af5522f287183ac5fa451404',1,'PokerGameAssetData']]],
-  ['time_5fnextturndelay_7',['Time_NextTurnDelay',['../class_poker_game_asset_data.html#ae1f28c206cc6aa6d9a5fe3b440df462f',1,'PokerGameAssetData']]],
-  ['time_5fupdatepotvaluetext_8',['Time_UpdatePotValueText',['../class_poker_game_asset_data.html#af05f62ea0b6c5d9af5829c60468dd2d5',1,'PokerGameAssetData']]],
-  ['time_5fwaitnextround_9',['Time_WaitNextRound',['../class_poker_game_asset_data.html#a5c244d7b79ce8373792fbdec6cc0874a',1,'PokerGameAssetData']]],
-  ['time_5fwaittobegingame_10',['Time_WaitToBeginGame',['../class_poker_game_asset_data.html#ab745c4b140b95ae9501cbb573aed12d1',1,'PokerGameAssetData']]],
-  ['time_5fwaittobeginturn_11',['Time_WaitToBeginTurn',['../class_poker_game_asset_data.html#a6f13dab82c37513a2ded9941ccc86154',1,'PokerGameAssetData']]],
-  ['turn_12',['Turn',['../class_cpu_data.html#ab900d13b7f5cff3a4ed88f1f0508d47a',1,'CpuData']]]
+  ['ticket_0',['Ticket',['../class_simple_poker_1_1_scriptable_objects_1_1_level_data.html#ac1e1a027ed457ba185a8dd77e7a2d797',1,'SimplePoker.ScriptableObjects.LevelData.Ticket'],['../class_simple_poker_1_1_save_load_1_1_level_save.html#aff8338fedabea7c010b4f65c8f21fbc5',1,'SimplePoker.SaveLoad.LevelSave.Ticket']]],
+  ['time_5fcallnextplayer_1',['Time_CallNextPlayer',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a216ee58269e8257258d11f430f1a5f3e',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fcallnextplayeronallin_2',['Time_CallNextPlayerOnAllIn',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a20956c132b5da23bc2068d9ed06a688d',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fcpuwaitchooseaction_3',['Time_CpuWaitChooseAction',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#aecacfb0b90c6c616d4e1cb85db161415',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fdelay_4',['Time_Delay',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a7f07948517085bc27e84210edd44b152',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fdistributecard_5',['Time_DistributeCard',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a080cd823c965ae0dca082ca845f7b6c1',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fenableplayerontable_6',['Time_EnablePlayerOnTable',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#ad00ed19f11931641b39d156c904a0960',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fnextturndelay_7',['Time_NextTurnDelay',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a696c3ce609b5d1363b819cc90d47682c',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fupdatepotvaluetext_8',['Time_UpdatePotValueText',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a6b209f50687c11ab89cc8b7ebe253166',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fwaitnextround_9',['Time_WaitNextRound',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a67dd3dc3cf0f4dea499549fc78989902',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fwaittobegingame_10',['Time_WaitToBeginGame',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#ae88ac24e8237793aff0ca4d2e79c47c9',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['time_5fwaittobeginturn_11',['Time_WaitToBeginTurn',['../class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html#a31e005b19b1c31517e0452d57aa70f6c',1,'SimplePoker::ScriptableObjects::PokerGameAssetData']]],
+  ['turn_12',['Turn',['../class_simple_poker_1_1_scriptable_objects_1_1_cpu_data.html#a444b0c1a23ec6edca289b1044a541a56',1,'SimplePoker::ScriptableObjects::CpuData']]]
 ];

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['fileexist_0',['FileExist',['../class_simple_poker_1_1_save_load_1_1_binary_save.html#a65e1f6a8ccd9a2cdfdf3775fe0a01f47',1,'SimplePoker::SaveLoad::BinarySave']]],
+  ['fileexist_0',['FileExist',['../class_simple_poker_1_1_save_load_1_1_json_save.html#a6c9b46ffec2d18606dda507d225617d1',1,'SimplePoker::SaveLoad::JsonSave']]],
   ['flushsplitpotmatch_1',['FlushSplitpotMatch',['../class_simple_poker_1_1_match_test_1_1_poker_match_test.html#a70510a74fac550cb2f990938d2b72bba',1,'SimplePoker::MatchTest::PokerMatchTest']]],
   ['flushwinnerhighcardtiebreakermatch_2',['FlushWinnerHighcardTiebreakerMatch',['../class_simple_poker_1_1_match_test_1_1_poker_match_test.html#adb20791ff99a0ddf20b01d854b71090c',1,'SimplePoker::MatchTest::PokerMatchTest']]],
   ['flushwinnerkickerstiebreakermatch_3',['FlushWinnerKickersTiebreakerMatch',['../class_simple_poker_1_1_match_test_1_1_poker_match_test.html#af2e30abb99815d166a17d0ade34017b5',1,'SimplePoker::MatchTest::PokerMatchTest']]],

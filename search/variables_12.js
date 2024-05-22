@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['value_0',['Value',['../class_card.html#a799b8d0ed5c5359d54223b50b32edcc1',1,'Card']]]
+  ['value_0',['Value',['../class_simple_poker_1_1_logic_1_1_card.html#acf31a37a081c3146836daf92ca9ab4ff',1,'SimplePoker::Logic::Card']]]
 ];

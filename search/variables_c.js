@@ -11,7 +11,7 @@ var searchData=
   ['onplayeractived_8',['OnPlayerActived',['../class_simple_poker_1_1_logic_1_1_player_base.html#a574c72dde699cd803d99f1dcece63e28',1,'SimplePoker::Logic::PlayerBase']]],
   ['onplayerturnchanged_9',['OnPlayerTurnChanged',['../class_simple_poker_1_1_logic_1_1_poker_event_manager.html#a95d120224f3e8665ea7efb8908b15ac4',1,'SimplePoker::Logic::PokerEventManager']]],
   ['onpokerchipseted_10',['OnPokerChipSeted',['../class_simple_poker_1_1_logic_1_1_player_base.html#a9f84ce62eb1c5f712e8405682202b956',1,'SimplePoker::Logic::PlayerBase']]],
-  ['onportraitchanged_11',['OnPortraitChanged',['../class_profile_u_i.html#aa238dfbd38f9ac1b41993970dcb8eeca',1,'ProfileUI']]],
+  ['onportraitchanged_11',['OnPortraitChanged',['../class_simple_poker_1_1_u_i_1_1_profile_u_i.html#a33ecaf535529225c6df24d60526f3486',1,'SimplePoker::UI::ProfileUI']]],
   ['onpotamountchanged_12',['OnPotAmountChanged',['../class_simple_poker_1_1_logic_1_1_poker_event_manager.html#a893f09c3ff16233fe45ad9802ee38cad',1,'SimplePoker::Logic::PokerEventManager']]],
   ['onroundfinished_13',['OnRoundFinished',['../class_simple_poker_1_1_logic_1_1_poker_event_manager.html#a2a68b16a0d83b42cfe933aec6922dc81',1,'SimplePoker::Logic::PokerEventManager']]],
   ['onturnchanged_14',['OnTurnChanged',['../class_simple_poker_1_1_logic_1_1_poker_event_manager.html#a22fff16466d97d2c410b16b13e0cd8e8',1,'SimplePoker::Logic::PokerEventManager']]],

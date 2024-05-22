@@ -1,4 +1,4 @@
 var _poker_game_asset_data_8cs =
 [
-    [ "PokerGameAssetData", "class_poker_game_asset_data.html", "class_poker_game_asset_data" ]
+    [ "SimplePoker.ScriptableObjects.PokerGameAssetData", "class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data.html", "class_simple_poker_1_1_scriptable_objects_1_1_poker_game_asset_data" ]
 ];

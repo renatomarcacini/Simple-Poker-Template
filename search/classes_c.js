@@ -1,15 +1,8 @@
 var searchData=
 [
-  ['serializedobjectcontainer_0',['SerializedObjectContainer',['../class_simple_poker_1_1_editor_1_1_poker_data_editor_1_1_serialized_object_container.html',1,'SimplePoker::Editor::PokerDataEditor']]],
-  ['singleton_1',['Singleton',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20adsinitializer_20_3e_2',['Singleton&lt; AdsInitializer &gt;',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20gamemanager_20_3e_3',['Singleton&lt; GameManager &gt;',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20pokergameasset_20_3e_4',['Singleton&lt; PokerGameAsset &gt;',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20pokerleveldata_20_3e_5',['Singleton&lt; PokerLevelData &gt;',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20soundmanager_20_3e_6',['Singleton&lt; SoundManager &gt;',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20transitionscenemanager_20_3e_7',['Singleton&lt; TransitionSceneManager &gt;',['../class_singleton.html',1,'']]],
-  ['singleton_3c_20uistatemanager_20_3e_8',['Singleton&lt; UIStateManager &gt;',['../class_singleton.html',1,'']]],
-  ['soundmanager_9',['SoundManager',['../class_simple_poker_1_1_audio_1_1_sound_manager.html',1,'SimplePoker::Audio']]],
-  ['static_5fautoinstance_10',['Static_AutoInstance',['../class_static___auto_instance.html',1,'']]],
-  ['staticinstance_11',['StaticInstance',['../class_static_instance.html',1,'']]]
+  ['readonlyattribute_0',['ReadOnlyAttribute',['../class_simple_poker_1_1_attribute_1_1_read_only_attribute.html',1,'SimplePoker::Attribute']]],
+  ['readonlydrawer_1',['ReadOnlyDrawer',['../class_simple_poker_1_1_attribute_1_1_read_only_drawer.html',1,'SimplePoker::Attribute']]],
+  ['rewardedad_2',['RewardedAd',['../class_simple_poker_1_1_unity_ads_1_1_rewarded_ad.html',1,'SimplePoker::UnityAds']]],
+  ['rewardedmanager_3',['RewardedManager',['../class_simple_poker_1_1_unity_ads_1_1_rewarded_manager.html',1,'SimplePoker::UnityAds']]],
+  ['rotateobject_4',['RotateObject',['../class_simple_poker_1_1_visual_1_1_rotate_object.html',1,'SimplePoker::Visual']]]
 ];

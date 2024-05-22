@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['levelcitybutton_0',['LevelCityButton',['../class_level_city_button.html',1,'']]],
-  ['leveldata_1',['LevelData',['../class_level_data.html',1,'']]],
-  ['levelsave_2',['LevelSave',['../class_level_save.html',1,'']]]
+  ['jsonsave_0',['JsonSave',['../class_simple_poker_1_1_save_load_1_1_json_save.html',1,'SimplePoker::SaveLoad']]]
 ];
